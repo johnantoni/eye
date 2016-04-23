@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -27,4 +27,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/johnantoni/eyeofagamotto.git
 
-gems:             [jekyll-paginate, jekyll-gist, pygments.rb, kramdown]
+gems:             [jekyll-paginate, jekyll-gist, rouge, kramdown]
